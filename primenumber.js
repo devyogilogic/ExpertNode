@@ -13,7 +13,7 @@ break;
 
     }
     if(flag==0){
-        console.log("  prime :)")
+        console.log(" yessss it's a  prime  number:)")
 
     }
     else {
