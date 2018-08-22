@@ -11,6 +11,7 @@ temp=parseInt(temp/10);
 arm=arm+a*a*a;
 }
 if(arm==num)
+{
 console.log("Armstrong number");
 }
 else
